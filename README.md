@@ -1,2 +1,2 @@
 [![](https://komarev.com/ghpvc/?username=pwned12pm&icon=08)](https://visitcount.itsvg.in)
-<img width="720" height="516" alt="Image" src="https://github.com/user-attachments/assets/5038abe3-3ed9-4a61-9a2a-d777eebac142" />
+<img width="640" height="479" alt="Image" src="https://github.com/user-attachments/assets/8b8679aa-763e-4093-b8ae-72ff22685092" />
